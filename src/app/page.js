@@ -131,7 +131,7 @@ export default function Home() {
             </div>
 
             <div className="contact-item">
-              <strong>Адрес:</strong> 121099, город Москва, ул Новый Арбат, д. 27, помещ. 7б/п
+              <strong>Адрес:</strong> 115487, город Москва, ул Академика Миллионщикова, д. 13 к. 1, помещ. 12а/п
             </div>
           </div>
         </section>
